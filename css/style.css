@@ -228,6 +228,79 @@ section{
 }
 /* end section about home */
 
+
+/* home packages section starts */
+
+.home-packages-page{
+    background: var(--light-bg);
+}
+
+
+
+.home-packages-page .box-container-page {
+    display: grid ;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
+    
+}
+
+.home-packages-page .box-container-page .box{
+    margin: 1rem;
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--white);
+}
+
+.home-packages-page .box-container-page .box .image {
+    height: 25rem;
+    overflow: hidden;
+}
+
+.home-packages-page .box-container-page .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition:  .2s linear;
+}
+
+
+
+.home-packages-page .box-container-page .box .content{
+    padding: 2rem;
+    text-align: center;
+}
+
+.home-packages-page .box-container-page .box .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+
+.home-packages-page .box-container-page .box .content p{
+    font-size: 1.5rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem;
+}
+
+.home-packages-page .load-more{
+    text-align: center;
+    margin-top: 2rem;
+} 
+
+/* home packages section ends */
+
+/* home offer section starts */
+
+.home-offer{
+    text-align: center;
+}
+
+.home-offer .content{
+    max-width: 50rem;
+    margin: 0 auto;
+}
+/* home offer section ends */
+
+
 /* section service */
 
 .services .box-container{
@@ -260,6 +333,27 @@ section{
     padding-top: 1rem;
 }
 /* end section service */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* section footer  */
 

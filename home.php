@@ -129,10 +129,65 @@
 
     <!-- home package section starts -->
 
+        <section class="home-packages-page">
+
+            <h1 class="heading-title"> our packages </h1>
+
+            <div class="box-container-page">
+
+                <div class="box">
+                    <div class="image">
+                        <img src="sources/book.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3> adventure & tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, dignissimos.</p>
+                        <a href="book.php" class="btn">book now</a>
+                    </div>
+                </div>
+                
+                <div class="box">
+                    <div class="image">
+                        <img src="sources/book.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3> adventure & tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, dignissimos.</p>
+                        <a href="book.php" class="btn" >book now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="sources/book.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3> adventure & tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, dignissimos.</p>
+                        <a href="book.php" class="btn" >book now</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="load-more">
+                <a href="package.php" class="btn"> load more </a>
+            </div>
+
+        </section>
 
     <!-- home package section ends -->
 
+    <!-- home offer section starts -->
 
+    <section class="home-offer">
+        <div class="content">
+            <h3>upto 50% off</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, quam neque. Perspiciatis quibusdam quos quaerat, adipisci molestiae eius earum repellendus.</p>
+            <a href="book.php" class="btn"> book now</a>
+        </div>
+    </section>
+
+    <!-- home offer section ends -->
 
 
     <!-- footer section starts -->
