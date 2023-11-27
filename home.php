@@ -189,6 +189,7 @@
 
     <!-- home offer section ends -->
 
+   
 
     <!-- footer section starts -->
         <section class="footer">
@@ -231,11 +232,6 @@
             </div>
         </section>
     <!-- footer section ends -->
-
-
-
-
-
 
     <!-- swiper js link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>

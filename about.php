@@ -77,7 +77,160 @@
 
 
 
+ <!-- review section starts -->
+ <section class="reviews">
 
+<div class="swiper reviews-slider">
+    <div class="swiper-wrapper">
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Expedita quas quidem ut maxime magnam amet reiciendis minima similique, 
+                facere accusamus eligendi cumque voluptatem omnis non vel autem! Quos eum atque, maxime sit odit rem omnis quis exercitationem ratione expedita voluptates?
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-1.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Expedita quas quidem ut maxime magnam amet reiciendis minima similique, 
+                facere accusamus eligendi cumque voluptatem omnis non vel autem! Quos eum atque, maxime sit odit rem omnis quis exercitationem ratione expedita voluptates?
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-2.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Expedita quas quidem ut maxime magnam amet reiciendis minima similique, 
+                facere accusamus eligendi cumque voluptatem omnis non vel autem! Quos eum atque, maxime sit odit rem omnis quis exercitationem ratione expedita voluptates?
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-3.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Expedita quas quidem ut maxime magnam amet reiciendis minima similique, 
+                facere accusamus eligendi cumque voluptatem omnis non vel autem! Quos eum atque, maxime sit odit rem omnis quis exercitationem ratione expedita voluptates?
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-4.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quod repudiandae dolore, fugit fugiat delectus magni accusantium commodi voluptatem maiores!
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-5.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, vitae. Eaque deserunt ipsam consectetur ut!
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-6.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto nam ipsum dignissimos aspernatur quo commodi, ipsam saepe nobis. Nobis ullam laborum blanditiis possimus perspiciatis neque.
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-7.jpg " alt="">
+        </div>
+
+        <div class="swiper-slide  slide">
+            <div class="starts">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, accusamus?
+            </p>
+
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="sources/person-8.jpg " alt="">
+        </div>
+
+    </div>
+</div>
+</section>
+<!-- review section ends -->
 
 
 
