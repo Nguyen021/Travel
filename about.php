@@ -34,10 +34,45 @@
 
 
     <div class="heading">
-        <h2>about us</h2>
+        <h1>about us</h1>
     </div>
 
+    <!-- about section starts -->
 
+    <section class="about">
+
+        <div class="image">
+            <img src="sources/about.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>why choose us?</h3>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero amet eos dolorem explicabo minima sapiente aspernatur ipsam velit excepturi odio quaerat tenetur consectetur quam debitis nobis sit reprehenderit, incidunt dolore.
+            </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam rem expedita odit, enim esse perferendis debitis molestiae iste sequi dolorem!</p>
+            
+            <div class="icons-container">
+
+                <div class="icons">
+                    <i class="fas fa-map"></i>
+                    <span>top destinations</span>
+                </div>
+
+                <div class="icons">
+                    <i class="fas fa-hand-holding-usd"></i>
+                    <span>affordable price</span>
+                </div>
+
+                <div class="icons">
+                    <i class="fas fa-headset"></i>
+                    <span>24/7 guide service</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- about section ends -->
 
 
 
