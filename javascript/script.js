@@ -56,3 +56,20 @@ var swiper = new Swiper(".reviews-slider", {
     },
   },
 });
+
+// handle in package page
+let loadMoreBtn = document.querySelector(".packages-page .load-more .btn");
+let currentItem = 3;
+
+loadMoreBtn.onclick = () => {
+  let boxs = [
+    ...document.querySelectorAll(".packages-page .box-container .box"),
+  ];
+  for (var item = currentItem; item < currentItem + 3; item++) {
+    boxs[item].style.display = "inline-block";
+  }
+  currentItem += 3;
+  if (currentItem >= boxs.length) {
+    loadMoreBtn.style.display = "none";
+  }
+};

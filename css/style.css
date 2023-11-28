@@ -301,6 +301,85 @@ section{
 
 /* home packages section ends */
 
+
+/* style packages section package page starts */
+
+
+
+
+.packages-page .box-container {
+    display: grid ;
+    grid-template-columns: repeat(auto-fit,minmax(30rem,1fr));
+    gap: 2rem;
+}
+
+.packages-page .box-container .box{
+    margin: 1rem;
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--white);
+    display: none;
+}
+
+.packages-page .box-container .box:nth-child(1),
+.packages-page .box-container .box:nth-child(2),
+.packages-page .box-container .box:nth-child(3)
+{
+    display: inline-block;
+}
+
+.packages-page .box-container .box:hover .image img{
+    transform: scale(1.1);
+}
+
+.packages-page .box-container .box .image {
+    height: 25rem;
+    overflow: hidden;
+}
+
+.packages-page .box-container .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition:  .2s linear;
+}
+
+.packages-page .box-container .box .content{
+    padding: 2rem;
+    text-align: center;
+}
+
+.packages-page .box-container .box .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+
+.packages-page .box-container .box .content p{
+    font-size: 1.2rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem;
+}
+
+.packages-page .load-more{
+    text-align: center;
+    margin-top: 2rem;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+/* style packages section package page ends */
+
+
 /* home offer section starts */
 
 .home-offer{
@@ -432,8 +511,8 @@ section{
 }
 
 .reviews .slide img{
-    height: 7rem;
-    width: 7rem;
+    height: 6rem;
+    width: 6rem;
     border-radius: 50%;
     margin-top: 1rem;
 }
