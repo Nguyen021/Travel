@@ -66,7 +66,7 @@ section{
     display: flex;
 }
 
-.heading h1{
+.heading h1 {
     font-size: 10rem;
     text-transform: uppercase;
     color: var(--light-black);
@@ -367,17 +367,80 @@ section{
 } 
 
 
-
-
-
-
-
-
-
-
-
-
 /* style packages section package page ends */
+
+
+
+
+
+
+/* style book in booking page starts */
+
+.booking .book-form{
+    padding: 2rem;
+    background: var(--light-bg);
+}
+
+.booking .book-form .flex{
+    gap: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.booking .book-form .flex .inputBox{
+    flex: 1 1 41rem;
+}
+
+.booking .book-form .flex .inputBox input{
+    width: 100%;
+    padding: 1.2rem 1.4rem;
+    font-size: 1.6rem;
+    text-transform: none;
+    color: var(--light-black);
+    margin-top: 1.5rem;
+    border: var(--border);
+}
+
+.booking .book-form .flex .inputBox input:focus{
+    background: var(--black);
+    color: var(--white);
+}
+
+.booking .book-form .flex .inputBox input:focus::placeholder{
+    /* background: var(--second-color); */
+    color: var(--light-white);
+}
+
+.booking .book-form .flex .inputBox span{
+    font-size: 1.4rem;
+    color: var(--light-black);
+}
+
+.booking .book-form .btn{
+    margin-top: 1.5rem;
+}
+/* style book in booking page ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* home offer section starts */
@@ -646,6 +709,11 @@ section{
 }
 
 @media (max-width:768px){
+    .heading h1 {
+        font-size: 4rem !important;
+    }
+
+
    .header .navbar {
     position: absolute;
     top: 99%; left: 0; right: 0;

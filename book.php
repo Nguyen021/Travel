@@ -82,7 +82,7 @@
 
             </div>
 
-            <input type="submit" class="btn" value="submit">
+            <input type="submit" class="btn" value="submit" name="send">
         </form>
     </section>
     <!-- booking section ends -->
