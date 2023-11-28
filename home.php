@@ -76,32 +76,32 @@
             <div class="box-container">
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/icon-1.png" alt="">
                     <h3>adventure</h3>
                 </div>
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/tour-guide.png" alt="">
                     <h3>tour guide</h3>
                 </div>
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/trekking.png" alt="">
                     <h3>trekking</h3>
                 </div>
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/camp-fire.png" alt="">
                     <h3>camp fire</h3>
                 </div>
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/off-road.png" alt="">
                     <h3>off road</h3>
                 </div>
 
                 <div class="box">
-                    <img src="sources/icon-1.png" alt="">
+                    <img src="sources/icons/camping.png" alt="">
                     <h3>camping</h3>
                 </div>
 

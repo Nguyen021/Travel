@@ -196,7 +196,9 @@ section{
 
 .home .swiper-button-next:hover,
 .home .swiper-button-prev:hover{
-    background: var(--main-color);
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
     color: var(--white);
 }
 
