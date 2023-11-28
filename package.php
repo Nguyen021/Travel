@@ -32,7 +32,9 @@
         </section>
     <!-- header section ends -->
 
-
+    <div class="heading" style="background:url(sources/about.jpg) no-repeat">
+        <h1>packages</h1>
+    </div>
 
 
 
