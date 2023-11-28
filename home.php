@@ -37,7 +37,7 @@
             <div class="swiper home-slider">
                 <div class="swiper-wrapper">
 
-                    <div class="swiper-slide slide" style="background:url(sources/home-slide-1.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background:url(sources/home/home-slide-1.jpg) no-repeat">
                         <div class="content">
                             <span> explore, discover, travel</span>
                             <h3>travel arround the world</h3>
@@ -45,7 +45,7 @@
                         </div>
                     </div>
 
-                    <div class="swiper-slide slide" style="background:url(sources/home-slide-1.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background:url(sources/home/home-slide-2.jpg) no-repeat">
                         <div class="content">
                             <span> explore, discover, travel</span>
                             <h3>discover the new place</h3>
@@ -53,7 +53,7 @@
                         </div>
                     </div>    
 
-                    <div class="swiper-slide slide" style="background:url(sources/home-slide-1.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background:url(sources/home/home-slide-3.jpg) no-repeat">
                         <div class="content">
                             <span> explore, discover, travel</span>
                             <h3>make your tour worthwhile</h3>
@@ -137,7 +137,7 @@
 
                 <div class="box">
                     <div class="image">
-                        <img src="sources/book.jpg" alt="">
+                        <img src="sources/packages/package-1.jpg" alt="">
                     </div>
                     <div class="content">
                         <h3> adventure & tour</h3>
@@ -148,7 +148,7 @@
                 
                 <div class="box">
                     <div class="image">
-                        <img src="sources/book.jpg" alt="">
+                        <img src="sources/packages/package-3.jpg" alt="">
                     </div>
                     <div class="content">
                         <h3> adventure & tour</h3>
@@ -159,7 +159,7 @@
 
                 <div class="box">
                     <div class="image">
-                        <img src="sources/book.jpg" alt="">
+                        <img src="sources/packages/package-2.jpg" alt="">
                     </div>
                     <div class="content">
                         <h3> adventure & tour</h3>

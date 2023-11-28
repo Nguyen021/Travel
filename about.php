@@ -99,7 +99,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-1.jpg " alt="">
+            <img src="sources/people/person-1.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -118,7 +118,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-2.jpg " alt="">
+            <img src="sources/people/person-2.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -137,7 +137,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-3.jpg " alt="">
+            <img src="sources/people/person-3.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -156,7 +156,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-4.jpg " alt="">
+            <img src="sources/people/person-4.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -173,7 +173,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-5.jpg " alt="">
+            <img src="sources/people/person-5.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -190,7 +190,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-6.jpg " alt="">
+            <img src="sources/people/person-6.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -207,7 +207,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-7.jpg " alt="">
+            <img src="sources/people/person-7.jpg " alt="">
         </div>
 
         <div class="swiper-slide  slide">
@@ -224,7 +224,7 @@
 
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="sources/person-8.jpg " alt="">
+            <img src="sources/people/person-8.jpg " alt="">
         </div>
 
     </div>
