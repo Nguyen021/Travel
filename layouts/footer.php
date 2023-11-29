@@ -1,4 +1,5 @@
-<section class="footer">
+ <!-- footer section starts -->
+ <section class="footer">
             <div class="box-container">
 
                 <div class="box">
@@ -37,3 +38,13 @@
                 created by <span>nguyn</span> | all rights reserved!
             </div>
         </section>
+    <!-- footer section ends -->
+
+    <!-- swiper js link -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- custom js file link -->
+    <script src="./javascript/script.js"></script>
+
+</body>
+</html>

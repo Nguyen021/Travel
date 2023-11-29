@@ -23,18 +23,6 @@ var swiper = new Swiper(".home-slider", {
   },
 });
 
-// var swiper = new Swiper(".home-slider", {
-//   scrollbar: {
-//     el: ".swiper-scrollbar",
-//     hide: true,
-//   },
-//   loop: true,
-//   autoplay: {
-//     delay: 1000,
-//     disableOnInteraction: true,
-//   },
-// });
-
 var swiper = new Swiper(".reviews-slider", {
   loop: true,
   autoplay: {
